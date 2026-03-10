@@ -19,4 +19,4 @@ A high-performance traffic interception tool designed for Reverse Engineering mo
 ```bash
 pkg install python-cryptography
 pip install mitmproxy
-mitmdump -s proxy_sniffer_v1.py
+mitmdump -s proxy_sniffer.py
